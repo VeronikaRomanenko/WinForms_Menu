@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\bin\Debug\WinForms_Menu.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\bin\Debug\WinForms_Menu.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\bin\Debug\WinForms_Menu.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\obj\Debug\WinForms_Menu.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\obj\Debug\WinForms_Menu.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\obj\Debug\WinForms_Menu.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\obj\Debug\WinForms_Menu.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\obj\Debug\WinForms_Menu.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_Menu\WinForms_Menu\WinForms_Menu\obj\Debug\WinForms_Menu.pdb
